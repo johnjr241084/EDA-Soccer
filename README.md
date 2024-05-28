@@ -1,5 +1,6 @@
 # EDA-Soccer
-Exploratory Data Analysis on Soccer
+Exploratory Data Analysis on Soccer:
+
 This data set brings together information concerning the 2689 players (name, position, nationality) as well as the game strategies used to define the level of play of each player.
 Our analysis is composed of three parts:
 
